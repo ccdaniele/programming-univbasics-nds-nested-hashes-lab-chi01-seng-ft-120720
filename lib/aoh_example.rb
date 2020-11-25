@@ -41,7 +41,7 @@ def aoh_lookup(aoh, row, key)
   
 end
 
-def aoh_update(aoh, row, key, "Joelle van Dyne (PGOAT)")
+def aoh_update(aoh, row, key, new_value)
   
   aoh[row][key] = new_value
   
