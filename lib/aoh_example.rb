@@ -37,7 +37,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   
-  array = [row][:key]
+  array = [row][key]
   
 end
 
